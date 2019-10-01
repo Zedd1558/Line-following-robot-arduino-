@@ -1,7 +1,7 @@
 // Line-following-robot-arduino.
 // Ignore the comments, some the commented code is actually special cases that are needed for Hard 90/60/45/30 degree turns.
 // If the lines are curves or straight lines only then it's not needed.
-a line following robot code used by arduino 
+
 
 #define inA 6
 #define inB 5
